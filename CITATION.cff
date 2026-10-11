@@ -1,0 +1,71 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper given under preferred-citation."
+title: "Code and data for: Application of the ASTG-Model to Earth Flyby Encounters: On a Pre-Flyby Predictive Test of the ASTG"
+type: software
+authors:
+  - family-names: Nesvinga
+    given-names: P. A.
+    email: praise.nesvinga@nust.ac.zw
+    affiliation: "Fundamental Theoretical Physics Group and Department of Applied Physics, National University of Science and Technology, Bulawayo, Zimbabwe"
+    orcid: "https://orcid.org/0009-0003-3518-8963"
+  - family-names: Jones
+    given-names: B. C.
+    email: amabooksbyo@gmail.com
+    affiliation: "Department of Applied Mathematics, National University of Science and Technology, Bulawayo, Zimbabwe"
+  - family-names: Nyambuya
+    given-names: G. G.
+    email: golden.nyambuya@nust.ac.zw
+    affiliation: "Fundamental Theoretical Physics Group and Department of Applied Physics, National University of Science and Technology, Bulawayo, Zimbabwe"
+version: "1.0"
+date-released: "2026-10-11"
+repository-code: "https://github.com/cerealrose/paper3-astg-flyby-prediction"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - "flyby anomaly"
+  - "Europa Clipper"
+  - "Earth gravity assist"
+  - "JPL Horizons"
+  - "covariance analysis"
+  - "Azimuthally Symmetric Theory of Gravitation"
+preferred-citation:
+  type: article
+  title: "Application of the ASTG-Model to Earth Flyby Encounters: On a Pre-Flyby Predictive Test of the ASTG"
+  authors:
+    - family-names: Nesvinga
+      given-names: P. A.
+    - family-names: Jones
+      given-names: B. C.
+    - family-names: Nyambuya
+      given-names: G. G.
+  journal: "Advances in Space Research"
+  year: 2026
+  status: submitted
+references:
+  - type: article
+    title: "Application of the ASTG-Model to Earth Flyby Encounters: Plausible Origins and Velocity Anomalies"
+    authors:
+      - family-names: Nesvinga
+        given-names: P. A.
+      - family-names: Jones
+        given-names: B. C.
+      - family-names: Nyambuya
+        given-names: G. G.
+    journal: "Advances in Space Research"
+    year: 2026
+    status: submitted
+    repository-code: "https://github.com/cerealrose/paper1-astg-flyby-foundation"
+  - type: article
+    title: "A Drag Model for the Low-Perigee Galileo II Encounter and the Manoeuvre-Affected and Null Earth Gravity Assists"
+    authors:
+      - family-names: Nesvinga
+        given-names: P. A.
+      - family-names: Jones
+        given-names: B. C.
+      - family-names: Nyambuya
+        given-names: G. G.
+    journal: "Advances in Space Research"
+    year: 2026
+    status: submitted
+    repository-code: "https://github.com/cerealrose/paper2-astg-flyby-anomalies"

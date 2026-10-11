@@ -1,0 +1,13 @@
+spacecraft,date,class,dVp_mm_s,sigma_dVp_mm_s,anomaly_source,dVinf_mm_s,sigma_dVinf_mm_s,hp_km,Vinf_km_s,delta_in_deg,delta_out_deg,geometry_source
+Galileo I,1990-12-08,anomalous,2.560,0.195,Jouannic2015 (sigma: Anderson2008 scaled),3.92,0.30,960,8.949,-12.52,-34.15,Anderson2008
+NEAR,1998-01-23,anomalous,7.210,0.006,Jouannic2015,13.46,0.01,539,6.851,-20.76,-71.96,Anderson2008
+Cassini,1999-08-18,anomalous,-1.683,0.842,Anderson2008 scaled to perigee,-2.0,1.0,1175,16.010,-12.92,-4.99,Anderson2008
+Rosetta I,2005-03-04,anomalous,0.660,0.011,Jouannic2015,1.80,0.03,1956,3.863,-2.81,-34.29,Anderson2008
+MESSENGER,2005-08-02,null,0.0071,0.004,Jouannic2015,0.02,0.01,2347,4.056,31.44,-31.92,Anderson2008
+Rosetta II,2007-11-13,null,0.000,0.100,Jouannic2015,,,5306.6,9.362,-10.81,18.59,JPL Horizons
+EPOXI I,2007-12-31,null,0.000,0.100,Jouannic2015,,,15573.5,3.448,-5.18,16.90,JPL Horizons
+EPOXI II,2008-12-29,null,0.000,0.100,Jouannic2015,,,43456.8,3.461,17.03,64.12,JPL Horizons
+Rosetta III,2009-11-13,null,0.000,0.100,Jouannic2015,,,2487.6,9.379,18.49,24.37,JPL Horizons
+EPOXI III,2010-06-27,null,0.000,0.100,Jouannic2015,,,30487.8,3.343,-63.88,-8.04,JPL Horizons
+Juno,2013-10-09,null,0.000,0.200,Thompson2014 (sigma: NesvingaDrag2026),,,561.5,10.389,14.17,39.48,JPL Horizons
+Galileo II,1992-12-08,control,-2.900,0.700,Jouannic2015,-4.6,1.0,303,8.877,-34.26,-4.87,Anderson2008
